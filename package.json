@@ -1,0 +1,17 @@
+{
+  "name": "Nginx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/magic-store/Nginx.git",
+  "author": "wave <372969383@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "commitizen": "^2.10.1",
+    "cz-emoji": "^1.1.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-emoji"
+    }
+  }
+}
